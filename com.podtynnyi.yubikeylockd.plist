@@ -17,7 +17,7 @@
             <key>idProduct</key>
             <string>*</string>
             <key>idVendor</key>
-            <integer>4176</integer>
+            <integer>1050</integer>
             <key>IOProviderClass</key>
             <string>IOUSBDevice</string>
             <key>IOMatchLaunchStream</key>
