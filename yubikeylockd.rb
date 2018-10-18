@@ -1,7 +1,7 @@
 class Yubikeylockd < Formula
   desc 'Simple daemon for locking and unlocking macOS with Yubikey.'
   homepage 'https://github.com/redorion/yubikeylockd'
-  url 'https://github.com/redorion/yubikeylockd/archive/v1.1.zip'
+  url 'https://github.com/redorion/yubikeylockd/archive/v1.1.1.zip'
   head 'https://github.com/redorion/yubikeylockd.git'
 
   def install
